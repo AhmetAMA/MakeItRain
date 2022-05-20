@@ -1,4 +1,5 @@
-﻿html {
+
+html {
     box-sizing: border-box
 }
 
@@ -7,6 +8,7 @@
 *:after {
     box-sizing: inherit
 }
+
 
 html {
     -ms-text-size-adjust: 100%;
@@ -217,7 +219,6 @@ textarea {
 }
 
 /* End extract */
-
 html,
 body {
     font-family: Verdana, sans-serif;
@@ -617,7 +618,6 @@ a {
 .w3-row:before,
 .w3-row-padding:after,
 .w3-row-padding:before,
-
 .w3-cell-row:before,
 .w3-cell-row:after,
 .w3-clear:after,
@@ -1799,7 +1799,7 @@ a {
 .w3-hover-text-light-grey:hover,
 .w3-text-light-gray,
 .w3-hover-text-light-gray:hover {
-    color: #f1f1f1 !important
+    color: white !important
 }
 
 .w3-text-dark-grey,
